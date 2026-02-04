@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-## Seguridad en Redes y Sistemas de Software
+## Seguridad en Redes y Sistemas de Software enero26
 
 # Jesús Adrián Delgado Carrillo
 
