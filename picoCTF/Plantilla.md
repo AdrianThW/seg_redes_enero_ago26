@@ -1,6 +1,7 @@
-## Reto
 
 ## Descripción
+
+## Solución
 
 ## Notas
 

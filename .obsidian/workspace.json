@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/General skills/1. Let's warm up.md",
+                "file": "picoCTF/General skills/10. Nice netcat....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Let's warm up"
+              "title": "10. Nice netcat..."
+            }
+          },
+          {
+            "id": "08467473ab842104",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +196,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7deb412d082b4be6",
+  "active": "08467473ab842104",
   "lastOpenFiles": [
+    "picoCTF/General skills/9. Glitch cat.md",
+    "picoCTF/General skills/10. Nice netcat....md",
+    "Untitled",
+    "picoCTF/General skills/8. plumbing.md",
+    "picoCTF/General skills/7. whats a net cat.md",
+    "picoCTF/General skills/5. First grep.md",
     "picoCTF/Plantilla.md",
+    "picoCTF/General skills/6. Obedient cat.md",
+    "picoCTF/General skills/4. Bases.md",
+    "picoCTF/General skills/3. Warmed up.md",
+    "picoCTF/General skills/2. 2warm.md",
     "picoCTF/General skills/1. Let's warm up.md",
     "README.md",
     "picoCTF/General skills",
-    "Untitled",
     "picoCTF",
     "Welcome.md"
   ]
