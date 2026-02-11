@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c460d534a63fabd0",
+        "id": "e3d88ee33eb8dde8",
         "type": "tabs",
         "children": [
           {
-            "id": "7deb412d082b4be6",
+            "id": "258236a1d0b4de27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/General skills/10. Nice netcat....md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10. Nice netcat..."
-            }
-          },
-          {
-            "id": "08467473ab842104",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,15 +179,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "08467473ab842104",
+  "active": "258236a1d0b4de27",
   "lastOpenFiles": [
-    "picoCTF/General skills/9. Glitch cat.md",
+    "picoCTF/General Skills 2/10. First find.md",
+    "picoCTF/General Skills 2/9. Big zip.md",
+    "picoCTF/General Skills 2/8. Repetitions.md",
+    "picoCTF/General Skills 2/7. Magikarp round mission.md",
+    "picoCTF/General Skills 2/6. Tab, tab, attack.md",
+    "picoCTF/General Skills 2/5. Useless.md",
+    "picoCTF/General Skills 2/4. Static ain't always noise.md",
+    "picoCTF/General Skills 2/3. Wave a flag.md",
+    "picoCTF/General Skills 2/2. Strings it.md",
+    "picoCTF/General Skills 2/1. Based.md",
+    "picoCTF/Plantilla.md",
     "picoCTF/General skills/10. Nice netcat....md",
+    "picoCTF/General Skills 2",
+    "picoCTF/General skills/9. Glitch cat.md",
     "Untitled",
     "picoCTF/General skills/8. plumbing.md",
     "picoCTF/General skills/7. whats a net cat.md",
     "picoCTF/General skills/5. First grep.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/General skills/6. Obedient cat.md",
     "picoCTF/General skills/4. Bases.md",
     "picoCTF/General skills/3. Warmed up.md",
