@@ -11,10 +11,14 @@
             "id": "258236a1d0b4de27",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/General Skills 3/10. Serpentine.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "10. Serpentine"
             }
           }
         ]
@@ -181,6 +185,18 @@
   },
   "active": "258236a1d0b4de27",
   "lastOpenFiles": [
+    "picoCTF/General Skills 3/9. PW Crack 3.md",
+    "picoCTF/General Skills 3/10. Serpentine.md",
+    "picoCTF/General Skills 3/8. PW Crack 2.md",
+    "picoCTF/General Skills 3/7. PW Crack 1.md",
+    "picoCTF/General Skills 3/6. fixme2.py.md",
+    "picoCTF/General Skills 3/3. Codebook.md",
+    "picoCTF/General Skills 3/4. convertme.py.md",
+    "picoCTF/General Skills 3/5. fixme1.py.md",
+    "picoCTF/General Skills 3/2. runme.py.md",
+    "picoCTF/General Skills 3/1. Super SSH.md",
+    "picoCTF/General Skills 3",
+    "Untitled",
     "picoCTF/General Skills 2/10. First find.md",
     "picoCTF/General Skills 2/9. Big zip.md",
     "picoCTF/General Skills 2/8. Repetitions.md",
@@ -195,18 +211,10 @@
     "picoCTF/General skills/10. Nice netcat....md",
     "picoCTF/General Skills 2",
     "picoCTF/General skills/9. Glitch cat.md",
-    "Untitled",
     "picoCTF/General skills/8. plumbing.md",
     "picoCTF/General skills/7. whats a net cat.md",
     "picoCTF/General skills/5. First grep.md",
-    "picoCTF/General skills/6. Obedient cat.md",
-    "picoCTF/General skills/4. Bases.md",
-    "picoCTF/General skills/3. Warmed up.md",
-    "picoCTF/General skills/2. 2warm.md",
-    "picoCTF/General skills/1. Let's warm up.md",
-    "README.md",
     "picoCTF/General skills",
-    "picoCTF",
-    "Welcome.md"
+    "picoCTF"
   ]
 }
